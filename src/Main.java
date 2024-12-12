@@ -186,11 +186,10 @@ public class Main {
                     break;
                 }
 
-            }
-        }
-        if (nbTours==0){
+            }if (nbTours==0){
             System.out.println("C'est un match nul !");
         }
         System.out.println("La partie est fini !");
+        }
+
     }
-}
